@@ -1,0 +1,43 @@
+# Environment files
+.env
+
+# Development directories
+.vs/
+.idea/
+
+# CodeIgniter writable directories
+writable/cache/
+writable/debugbar/
+writable/logs/
+writable/session/
+
+# Test files
+tests/
+phpunit.dist.xml
+*.test.php
+test_*.php
+
+# Setup/check files
+check_*.php
+setup_*.php
+quick_setup.php
+debug_test.php
+
+# Old PHP files
+admin.php
+admin_add.php
+change_password.php
+db.php
+user.php
+view_records.php
+login.php
+register.php
+logout.php
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Composer
+/vendor/
+composer.lock

@@ -1,4 +1,4 @@
-# TANJ - Point of Sale System
+# Azucena - Point of Sale System
 
 ## Setup Instructions
 
